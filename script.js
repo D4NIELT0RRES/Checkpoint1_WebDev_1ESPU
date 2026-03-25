@@ -60,3 +60,27 @@ console.log("Soma:", a + b);
 console.log("Subtração:", a - b);
 console.log("Multiplicação:", a * b);
 console.log("Divisão:", a / b);
+
+/*==================================================================================*/
+
+/******* QUESTÃO - 6 *******/
+
+// == (compara valor, ignora tipo)
+console.log("5 == '5':", 5 == "5"); // true
+
+// === (compara valor e tipo)
+console.log("5 === '5':", 5 === "5"); // false
+
+// != (diferente, ignora tipo)
+console.log("5 != '5':", 5 != "5"); // false
+
+// !== (diferente, compara tipo também)
+console.log("5 !== '5':", 5 !== "5"); // true
+
+// > (maior que)
+console.log("10 > 5:", 10 > 5); // true
+
+// < (menor que)
+console.log("3 < 2:", 3 < 2); // false
+
+/*==================================================================================*/
