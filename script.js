@@ -118,3 +118,16 @@ console.log(compararNumeros(2, 10)); // printa no console: "B é maior"
 console.log(compararNumeros(3, 3));  // printa no console: "Ambos são iguais"
 
 /*==================================================================================*/
+
+/******* QUESTÃO - 10 *******/
+
+let num1 = 18; 
+let num2 = 2;
+
+console.log("Soma:", num1 + num2);
+
+let t = true;
+let f = false; //bool
+
+console.log("OR:", t || y)
+console.log("AND:", t && y)
