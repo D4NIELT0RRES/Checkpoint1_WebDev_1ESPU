@@ -48,3 +48,15 @@ console.log("País:", pais);
 console.log("Ano:", ano);
 
 /*==================================================================================*/
+
+/******* QUESTÃO - 05 *******/
+
+// Declarando as variáveis
+let a = 10;
+let b = 5;
+
+// Operações
+console.log("Soma:", a + b);
+console.log("Subtração:", a - b);
+console.log("Multiplicação:", a * b);
+console.log("Divisão:", a / b);
