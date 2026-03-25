@@ -1,3 +1,10 @@
+/*==========================================================================================
+#  OBJETIVO: Repositório para o Checkpoint #1 de Engenharia de Software 
+#  DATA: 25/03/2025
+#  AUTORES: DANIEL GOMES TORRES - GUILHERME DE CORREIA ALVES - PEDRO PASSOS CORSINI
+#========================================================================================== 
+*/
+
 /******* QUESTÃO - 01 *******/
 
  /*       
