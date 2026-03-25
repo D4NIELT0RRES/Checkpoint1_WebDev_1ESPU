@@ -84,3 +84,15 @@ console.log("10 > 5:", 10 > 5); // true
 console.log("3 < 2:", 3 < 2); // false
 
 /*==================================================================================*/
+
+/******* QUESTÃO - 7 *******/
+
+let x = true; // também pode ser definido com números:
+let y = false; // qualquer número diferente de zero = true /  0 = false
+
+console.log("AND:", x && y);
+console.log("OR:", x || y);
+console.log("NOT x:", !x);
+console.log("NOT y:", !y);
+
+/*==================================================================================*/
