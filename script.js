@@ -101,3 +101,20 @@ console.log("NOT y:", !y);
 // Exemplo de branch e merge
 
 /*==================================================================================*/
+
+/******* QUESTÃO - 9 *******/
+
+function compararNumeros(a, b) {
+    if (a >b) {
+        return "A é maior.";
+    } else if (b> a) {
+        return "B é maior.";
+    } else {
+        return "Ambos são iguais."
+    }
+}
+console.log(compararNumeros(7, 4)); // printa no console: "A é maior"
+console.log(compararNumeros(2, 10)); // printa no console: "B é maior"
+console.log(compararNumeros(3, 3));  // printa no console: "Ambos são iguais"
+
+/*==================================================================================*/
